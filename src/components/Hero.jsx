@@ -1,6 +1,6 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
-import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin, FaTelegram } from "react-icons/fa";
 import { SiLeetcode, SiCodeforces } from "react-icons/si";
 import { cn } from "../lib/utils";
 import { DrawLineText } from "./ui/draw_line_text";
@@ -75,7 +75,7 @@ const Hero = () => {
           </h2>
 
           <div className="flex justify-center gap-4 mt-6 text-2xl">
-            <a
+            {/* <a
               href="https://github.com/tonyrst90"
               target="_blank"
               rel="noopener noreferrer"
@@ -83,14 +83,14 @@ const Hero = () => {
             >
               <FaGithub />
             </a>
-            {/* <a
+            <a
               href="https://www.instagram.com/chaitanyasai_meka/"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-pink-600 transition"
             >
               <FaInstagram />
-            </a> */}
+            </a>
             <a
               href="https://www.linkedin.com/in/chaitanya-sai-meka/"
               target="_blank"
@@ -100,12 +100,12 @@ const Hero = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://leetcode.com/u/chaitanyasai_meka/"
+              href="https://web.telegram.org/@tonym724/"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-yellow-500 transition"
             >
-              <SiLeetcode />
+              <FaTelegram />
             </a>
             <a
               href="https://codeforces.com/profile/Chaitanyasai_meka"
@@ -114,7 +114,7 @@ const Hero = () => {
               className="icon-circle hover:text-blue-400 transition"
             >
               <SiCodeforces />
-            </a>
+            </a> */}
           </div>
         </div>
       </div>

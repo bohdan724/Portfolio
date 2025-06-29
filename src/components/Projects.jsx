@@ -191,7 +191,7 @@ const Projects = () => {
         ))}
       </div>
       <div>
-      <a 
+      {/* <a 
       href="https://github.com/ChaitanyaSai-Meka"
       target="_blank"
       rel="noopener noreferrer"
@@ -206,7 +206,7 @@ const Projects = () => {
           <FaGithub className="h-6 w-6 text-white" />
         </div>
         <span className="absolute -bottom-0 left-[1.125rem] h-px w-[calc(100%-2.25rem)] bg-gradient-to-r from-emerald-400/0 via-emerald-400/90 to-emerald-400/0 transition-opacity duration-500 group-hover:opacity-40" />
-      </a>
+      </a> */}
       </div>
     </div>
   );
