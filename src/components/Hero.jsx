@@ -83,14 +83,14 @@ const Hero = () => {
             >
               <FaGithub />
             </a>
-            <a
+            {/* <a
               href="https://www.instagram.com/chaitanyasai_meka/"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-pink-600 transition"
             >
               <FaInstagram />
-            </a>
+            </a> */}
             <a
               href="https://www.linkedin.com/in/chaitanya-sai-meka/"
               target="_blank"
