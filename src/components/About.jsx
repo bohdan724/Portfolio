@@ -7,19 +7,19 @@ const About = () => {
   return (
     <section className="about-container relative flex min-h-[50rem] md:min-h-screen w-full items-center justify-center bg-black text-center py-20 px-4">
       <Helmet>
-        <title>About Adrian Monteiro | Full Stack Developer & AI Enthusiast</title>
-        <meta name="description" content="Learn more about Adrian Monteiro, a passionate full-stack developer with expertise in React, Node.js, AI/ML, UI/UX design, and entrepreneurial ventures. Discover my journey and goals." />
+        <title>About Fernando Lazaro | Full Stack Developer & AI Enthusiast</title>
+        <meta name="description" content="Learn more about Fernando Lazaro, a passionate full-stack developer with expertise in React, Node.js, AI/ML, UI/UX design, and entrepreneurial ventures. Discover my journey and goals." />
         <link rel="canonical" href="https://chaitanya-sai-meka.vercel.app/about" />
-        <meta property="og:title" content="About Adrian Monteiro | Full Stack Developer" />
-        <meta property="og:description" content="Get to know Adrian Monteiro's background, skills, projects, and entrepreneurial aspirations in full-stack development and AI/ML." />
+        <meta property="og:title" content="About Fernando Lazaro | Full Stack Developer" />
+        <meta property="og:description" content="Get to know Fernando Lazaro's background, skills, projects, and entrepreneurial aspirations in full-stack development and AI/ML." />
         <meta property="og:type" content="profile" />
         <meta property="og:url" content="https://chaitanya-sai-meka.vercel.app/about" />
         <meta property="og:image" content="https://chaitanya-sai-meka.vercel.app/profile_pic.png" />
-        <meta property="og:site_name" content="Adrian Monteiro's Portfolio" />
+        <meta property="og:site_name" content="Fernando Lazaro's Portfolio" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@IAMCHAITANYASAI" />
-        <meta name="twitter:title" content="About Adrian Monteiro | Full Stack Developer" />
-        <meta name="twitter:description" content="Discover Adrian Monteiro's passion for coding, full-stack development, AI, and building impactful digital solutions." />
+        <meta name="twitter:title" content="About Fernando Lazaro | Full Stack Developer" />
+        <meta name="twitter:description" content="Discover Fernando Lazaro's passion for coding, full-stack development, AI, and building impactful digital solutions." />
         <meta name="twitter:image" content="https://chaitanya-sai-meka.vercel.app/profile_pic.png" />
       </Helmet>
       
@@ -52,7 +52,7 @@ const About = () => {
             About Me.
           </h1>
           <p className="text-lg leading-relaxed mb-4">
-            I’m Adrian Monteiro, a passionate and driven developer with a strong foundation in software engineering and a keen interest in building impactful digital solutions. I thrive at the intersection of technology and creativity, with hands-on experience in full-stack development, UI/UX design, and collaborative team projects.
+            I’m Fernando Lazaro, a passionate and driven developer with a strong foundation in software engineering and a keen interest in building impactful digital solutions. I thrive at the intersection of technology and creativity, with hands-on experience in full-stack development, UI/UX design, and collaborative team projects.
           </p>
           <p className="text-lg leading-relaxed mb-4">
             Currently pursuing my academic journey while actively working on personal and open-source projects, I continuously seek opportunities to learn and grow in real-world environments. I have a strong grasp of modern web technologies, especially React, and I enjoy solving complex problems with clean, efficient code.

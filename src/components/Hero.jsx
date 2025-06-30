@@ -38,7 +38,7 @@ const Hero = () => {
                 lg: 70,
               }}
               strokeWidth={1.5}
-              text="Adrian Monteiro"
+              text="Fernando Lazaro"
               color="url(#gradient)"
             />
           </div>
