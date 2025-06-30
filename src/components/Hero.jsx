@@ -38,7 +38,7 @@ const Hero = () => {
                 lg: 70,
               }}
               strokeWidth={1.5}
-              text="Fernando Lazaro"
+              text="Bohdan Motrych"
               color="url(#gradient)"
             />
           </div>
@@ -74,7 +74,7 @@ const Hero = () => {
             </span>
           </h2>
           <div className="flex justify-center gap-4 mt-6 text-2xl">
-            {/* <a
+            <a
               href="https://github.com/tonyrst90"
               target="_blank"
               rel="noopener noreferrer"
@@ -82,16 +82,16 @@ const Hero = () => {
             >
               <FaGithub />
             </a>
-            <a
+            {/* <a
               href="https://www.instagram.com/chaitanyasai_meka/"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-pink-600 transition"
             >
               <FaInstagram />
-            </a>
+            </a> */}
             <a
-              href="https://www.linkedin.com/in/chaitanya-sai-meka/"
+              href="https://www.linkedin.com/in/bohdan-motrych-a15bb9368/"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-blue-600 transition"
@@ -99,14 +99,14 @@ const Hero = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://web.telegram.org/@tonym724/"
+              href="https://t.me/tonym724"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-yellow-500 transition"
             >
               <FaTelegram />
             </a>
-            <a
+            {/* <a
               href="https://codeforces.com/profile/Chaitanyasai_meka"
               target="_blank"
               rel="noopener noreferrer"

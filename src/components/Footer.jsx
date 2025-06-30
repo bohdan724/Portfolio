@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="w-full text-center py-6 bg-black border-t border-neutral-800">
       <p className="text-sm text-neutral-400">
-        © {new Date().getFullYear()} Fernando Lazaro. All rights reserved.
+        © {new Date().getFullYear()} Bohdan Motrych. All rights reserved.
       </p>
     </footer>
   );

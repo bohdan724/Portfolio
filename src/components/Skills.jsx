@@ -79,7 +79,7 @@ const Skills = () => {
     />,
     <img
       key="motion_logo"
-      src="/motion_logo().png"
+      src="/php_Logo.png"
       alt="motion"
       className="w-15 h-15 p-1 object-contain"
     />,
