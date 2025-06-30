@@ -38,7 +38,7 @@ const Hero = () => {
                 lg: 70,
               }}
               strokeWidth={1.5}
-              text="Tony Muslin"
+              text="Adrian Monteiro"
               color="url(#gradient)"
             />
           </div>
@@ -73,7 +73,6 @@ const Hero = () => {
               />
             </span>
           </h2>
-
           <div className="flex justify-center gap-4 mt-6 text-2xl">
             {/* <a
               href="https://github.com/tonyrst90"

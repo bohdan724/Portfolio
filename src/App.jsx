@@ -44,21 +44,21 @@ useEffect(() => {
     <>
       {/* Global SEO Metadata */}
       <Helmet>
-        <title>Tony Muslin | Full Stack Developer & AI Enthusiast</title>
-        <meta name="description" content="Official portfolio of Tony Muslin, a full stack developer skilled in React, Node.js, and passionate about AI/ML. Explore projects, skills, and experience." />
+        <title>Adrian Monteiro | Full Stack Developer & AI Enthusiast</title>
+        <meta name="description" content="Official portfolio of Adrian Monteiro, a full stack developer skilled in React, Node.js, and passionate about AI/ML. Explore projects, skills, and experience." />
         <link rel="canonical" href="https://chaitanya-sai-meka.vercel.app/" />
 
-        <meta property="og:title" content="Tony Muslin | Full Stack Developer" />
-        <meta property="og:description" content="Official portfolio of Tony Muslin, a full stack developer skilled in React, Node.js, and passionate about AI/ML." />
+        <meta property="og:title" content="Adrian Monteiro | Full Stack Developer" />
+        <meta property="og:description" content="Official portfolio of Adrian Monteiro, a full stack developer skilled in React, Node.js, and passionate about AI/ML." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://chaitanya-sai-meka.vercel.app/" />
         <meta property="og:image" content="https://chaitanya-sai-meka.vercel.app/profile_pic.png" />
-        <meta property="og:site_name" content="Tony Muslin's Portfolio" />
+        <meta property="og:site_name" content="Adrian Monteiro's Portfolio" />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@IAMCHAITANYASAI" />
-        <meta name="twitter:title" content="Tony Muslin | Full Stack Developer" />
-        <meta name="twitter:description" content="Official portfolio of Tony Muslin, a full stack developer skilled in React, Node.js, and passionate about AI/ML." />
+        <meta name="twitter:title" content="Adrian Monteiro | Full Stack Developer" />
+        <meta name="twitter:description" content="Official portfolio of Adrian Monteiro, a full stack developer skilled in React, Node.js, and passionate about AI/ML." />
         <meta name="twitter:image" content="https://chaitanya-sai-meka.vercel.app/profile_pic.png" />
 
         <script type="application/ld+json">
@@ -66,7 +66,7 @@ useEffect(() => {
             {
               "@context": "https://schema.org",
               "@type": "Person",
-              "name": "Tony Muslin",
+              "name": "Adrian Monteiro",
               "url": "https://chaitanya-sai-meka.vercel.app/",
               "sameAs": [
                 "https://github.com/ChaitanyaSai-Meka",
@@ -85,7 +85,7 @@ useEffect(() => {
                 "name": "Newton School of Technology"
               },
               "image": "https://chaitanya-sai-meka.vercel.app/profile_pic.png",
-              "description": "Tony Muslin is a passionate full-stack developer specializing in React and modern web technologies, with expertise in AI and machine learning, based in Rajamahendravaram, Andhra Pradesh, India."
+              "description": "Adrian Monteiro is a passionate full-stack developer specializing in React and modern web technologies, with expertise in AI and machine learning, based in Rajamahendravaram, Andhra Pradesh, India."
             }
           `}
         </script>
