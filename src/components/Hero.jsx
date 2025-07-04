@@ -99,7 +99,7 @@ const Hero = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://t.me/tonym724"
+              href="https://t.me/bohdantony"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-yellow-500 transition"

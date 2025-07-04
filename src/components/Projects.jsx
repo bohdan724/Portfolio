@@ -18,52 +18,52 @@ const projects = [
     blurhash:"L02$Hd9Z00~pneofp0WB00?a~V01"
   },
   {
-    title: "Movies Website",
+    title: "Smart Social Clips",
     description:
-      "Movie explorer website with sleek UI and live API integration.",
-    link: "https://movies-web-project-seven.vercel.app/",
-    image: "/Movies.png",
+      "Turn full-length content into thousands of branded social clips—automatically, at scale.",
+    link: "https://postclips.com",
+    image: "/postClips.png",
     blurhash:"LACZ35PqnOi_T0X9a|WA00+FIpkW"
   },
   {
-    title: "To-Do App with Flask",
+    title: "Text to Podcast",
     description:
-      "Flask-powered backend with persistent task management frontend.",
-    link: "https://todo-with-flask-a93d.onrender.com/",
-    image: "/Task_Master.png",
+      "Instantly convert written content into lifelike AI audio you can listen to anywhere.",
+    link: "https://podpod.me/",
+    image: "/pod1.png",
     blurhash:"L13l5O9F4n%MD%t7t7Rj00t7_3IU"
   },
   {
-    title: "Temperature Converter (JS)",
+    title: "Home Fitness, Redefined",
     description:
       "Interactive converter for Celsius/Fahrenheit using plain JavaScript.",
-    link: "https://chaitanyasai-meka.github.io/Temperature_Converter_JS/code/index.html",
-    image: "/Temperature.png",
+    link: "https://peloton.com",
+    image: "/peloton.png",
     blurhash:"L2QT1Z3C~Xtm00%EV[R.00erD}fP"
   },
   {
-    title: "Capstone Project (HTML/CSS)",
+    title: "Collaborate Better",
     description:
-      "Final capstone web project showcasing HTML and CSS skills.",
-    link: "https://chaitanyasai-meka.github.io/Capstone_Project/",
-    image: "/Capstone.png",
+      "Centralize communication, files, and tasks—so your team stays aligned and productive.",
+    link: "https://equipeap.com/",
+    image: "/equipeap.PNG",
     blurhash:"LhLz?TRk~qoe-=azM{ay?cs.MxbH"
   },
-  {
-    title: "NST.TINDER",
-    description:
-      "NST Tinder: Matchmaking for Newton School with swipe, chat, and futuristic profiles.",
-    link: "https://nst-tinder.vercel.app",
-    image: "/nst_tinder.png",
-    blurhash:"L6Sp@kpw%#t70{Y*aza|0_aKIBbH"
-  },
-  {
-    title: "Healthy Middle-Class India",
-    description: "Healthy Middle-Class India: Tackles obesity and lifestyle diseases with systemic solutions.",
-    link: "https://fste-chi.vercel.app",
-    image: "/fste.png",
-    blurhash:"L1NAoU3}MZPp004N019c00UDI89H"
-  },
+  // {
+  //   title: "NST.TINDER",
+  //   description:
+  //     "NST Tinder: Matchmaking for Newton School with swipe, chat, and futuristic profiles.",
+  //   link: "https://nst-tinder.vercel.app",
+  //   image: "/nst_tinder.png",
+  //   blurhash:"L6Sp@kpw%#t70{Y*aza|0_aKIBbH"
+  // },
+  // {
+  //   title: "Healthy Middle-Class India",
+  //   description: "Healthy Middle-Class India: Tackles obesity and lifestyle diseases with systemic solutions.",
+  //   link: "https://fste-chi.vercel.app",
+  //   image: "/fste.png",
+  //   blurhash:"L1NAoU3}MZPp004N019c00UDI89H"
+  // },
   {
     title: "CYBERFICTION",
     description: "Features smooth scrolling and logo animation using HTML, CSS, JS, Lenis, and GSAP. ",
@@ -71,14 +71,14 @@ const projects = [
     image: "/cyberfiction.png",
      blurhash:"LbOzMcWB_NxuR*t7RjRjogWBM{fk"
   },
-  {
-    title: "Coming Soon",
-    description:
-      "Still in the oven. Can’t wait to serve it hot!",
-    link: "",
-    image: "/black_page.jpg",
-    blurhash:"L00SvEayWAfQozfQayfQayfQf8fQ"
-  },
+  // {
+  //   title: "Coming Soon",
+  //   description:
+  //     "Still in the oven. Can’t wait to serve it hot!",
+  //   link: "",
+  //   image: "/black_page.jpg",
+  //   blurhash:"L00SvEayWAfQozfQayfQayfQf8fQ"
+  // },
 ];
 
 const Projects = () => {
