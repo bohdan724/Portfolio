@@ -75,7 +75,7 @@ const Hero = () => {
           </h2>
           <div className="flex justify-center gap-4 mt-6 text-2xl">
             <a
-              href="https://github.com/tonyrst90"
+              href="https://github.com/bohdan724"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-white transition"
